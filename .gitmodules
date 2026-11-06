@@ -1,0 +1,3 @@
+[submodule "common-k"]
+	path = common-k
+	url = git@github.com:RamitTechnical/common.git
